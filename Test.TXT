@@ -1,2 +1,6 @@
 bjöh
+<<<<<<< HEAD
 Nej
+=======
+Nej
+>>>>>>> e2aa74f571a19115d4ace0ddda6d5c5f0762777c
